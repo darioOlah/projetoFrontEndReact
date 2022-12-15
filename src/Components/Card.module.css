@@ -1,0 +1,29 @@
+.cardDark{
+  background-color: #31313196;
+}
+
+.card:hover{
+  border: 0.5px solid rgb(206, 217, 142);
+}
+
+.favButton{
+  width: 100%;
+}
+
+.CardBody{
+  width: 100%;
+}
+
+.title{
+  height: 2rem;
+}
+
+.svg {
+  padding: 30px;
+}
+
+.svgDark {
+  filter: brightness(0) invert(1);
+  padding: 30px;
+}
+
